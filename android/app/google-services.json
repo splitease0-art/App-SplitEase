@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "631468976666",
+    "project_id": "splitease0-app",
+    "storage_bucket": "splitease0-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631468976666:android:871383f9b1eb1f3dc3ffa3",
+        "android_client_info": {
+          "package_name": "com.splitease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631468976666-qe087oabfouq4hk3665r89jopu0cudrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.splitease",
+            "certificate_hash": "c2563eee2baff330d7b3b28e44301387e31744a8"
+          }
+        },
+        {
+          "client_id": "631468976666-s3lnp0uk40f5q96m4c594ft1eg8r41l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKQoVgkmpfcdEhN9M6NYExmZZ0VYJSCMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631468976666-s3lnp0uk40f5q96m4c594ft1eg8r41l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
